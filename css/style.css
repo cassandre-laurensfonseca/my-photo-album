@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto&family=Yaldevi&display=swap);
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+@import url("components/container-banner.css");
+
+@import url("components/rowfull.css");
+
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+	color: rgba(100, 100, 120, 0.8);
+}
+
+h1, h2, h3 {
+	font-family: 'Yadelvi', sans-serif;
+}
+
+h3 {
+	font-weight: lighter;
+}
+
+a {
+	text-decoration: none;
+}

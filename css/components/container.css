@@ -1,0 +1,30 @@
+.container {
+	width: 700px;
+	margin: 0 auto;
+}
+
+.container h2 {
+	font-weight: light;
+	text-align: center;
+	color: rgba(52,101,109,0.8);
+}
+
+/*Responsive container*/
+
+@media (max-width 960px) {
+	.container{
+		width: 700px
+	}
+}
+
+@media (max-width 720px) {
+	.container{
+		width: 500px
+	}
+}
+
+@media (max-width 550px) {
+	.container{
+		width: 300px
+	}
+}
